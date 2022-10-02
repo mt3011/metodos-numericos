@@ -1,2 +1,2 @@
-# trabalho1-metodos-numericos
-Primeiro trabalho da disciplina de métodos numéricos no curso de física da UFC.
+# metodos-numericos
+Repositório criado para cadeira de Métodos Numéricos para Física na UFC
